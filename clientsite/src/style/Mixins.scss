@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+@mixin typography ($font, $size, $weight: 400) {
+    font-family: $font;
+    font-size: $size;
+    font-weight: $weight;
+}
